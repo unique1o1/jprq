@@ -11,7 +11,7 @@
 
 ---
 ## **Note**: 
-This client doesn't work with the original [jprq.io](https://github.com/azimjohn/jprq/) server (i.e open.jprq.live)
+This client doesn't work with the original [jprq.io](https://github.com/azimjohn/jprq/) (i.e open.jprq.live)
 
 ## Deploy your own jprq tunnel server
 You have to deploy your own tunnel server for the client to work. Visit [jprq.io](https://github.com/unique1o1/jprq.io)
